@@ -1,0 +1,4 @@
+https://machinelearningmastery.com/statistical-language-modeling-and-neural-language-models/
+https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/
+https://machinelearningmastery.com/develop-word-based-neural-language-models-python-keras/
+https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
