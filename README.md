@@ -1,20 +1,20 @@
 # Language Modeling
-It involves predicting the next word in a sequence given the sequence of words already present.
+Language modeling:
+===
+The aim of this repository is to illustrate how to create and train a neural network to predict the next word in a sequence (i.e. sequence of words), based on the preceding words in the sequence.
 
-# The task has been divided into 4 parts:
-1. Data Preprocessing
-  a. Convert to lowercase
-  b. Remove all the special characters
-  c. Remove all the numbers from text
-
-2. Tokenization
-  a. Sentence tokenization
-  b. Remove extra spaces(leading and trailing)
-  
-3. Model Training
-  a. Choose a sequence model
-  b. Architecture and layers explaination
-
-4. Optimize Hyperparameters
-  a. Epochs, Batch Size, Layers
-  b. Sample sentence prediction
+The process of building our language model will be as follows:
+  * Pre-process our data (Data Preprocessing)
+    * Convert to lowercase
+    * Remove all the special characters
+    * Remove all the numbers from text
+  * Tokenization
+    * Sentence tokenization
+    * Remove extra spaces (leading and trailing)
+  * Model Training
+    * Choose an sequence model
+    * Architecture and layers explanation
+  * Optimize Hyperparameters
+    * Epochs, Batch Size, Layers
+    * Sample sentence prediction
+    
